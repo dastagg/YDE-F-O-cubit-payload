@@ -6,6 +6,6 @@ A Flutter tutorial application by Your Dev Edge.
 
 This is a series of tutorials that focuses on State and State Management using the Bloc Package.
 
-This is the first of several "Overview" applications that demonstrate the basics of Cubit/Bloc.
+This is one of several "Overview" applications that demonstrate the basics of Cubit/Bloc.
 
-This app will demonstrate how to pass data through the system.
+This app will demonstrate how to pass additional information to Cubit's Functions.
